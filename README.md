@@ -1,4 +1,7 @@
 ## Hi there 👋
+### 안뇽
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 
 <!--
 **kyogi0321/kyogi0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
