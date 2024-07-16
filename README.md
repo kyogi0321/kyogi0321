@@ -1,6 +1,6 @@
-## Hi there 👋
-### 안뇽
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+## Hi Hello 👋
+### Nice to meet U 🍀
+<a href="https://velog.io/" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=velog&logoColor=#20C997"/></a>
 
 
 I want to be someone who changes the world.
